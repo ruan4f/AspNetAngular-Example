@@ -1,0 +1,14 @@
+F:\GitHub\AspNetAngular-Example\AspNetAngular\bin\Debug\netcoreapp2.1\AspNetAngular.deps.json
+F:\GitHub\AspNetAngular-Example\AspNetAngular\bin\Debug\netcoreapp2.1\AspNetAngular.runtimeconfig.json
+F:\GitHub\AspNetAngular-Example\AspNetAngular\bin\Debug\netcoreapp2.1\AspNetAngular.runtimeconfig.dev.json
+F:\GitHub\AspNetAngular-Example\AspNetAngular\bin\Debug\netcoreapp2.1\AspNetAngular.dll
+F:\GitHub\AspNetAngular-Example\AspNetAngular\bin\Debug\netcoreapp2.1\AspNetAngular.pdb
+F:\GitHub\AspNetAngular-Example\AspNetAngular\obj\Debug\netcoreapp2.1\AspNetAngular.csprojAssemblyReference.cache
+F:\GitHub\AspNetAngular-Example\AspNetAngular\obj\Debug\netcoreapp2.1\AspNetAngular.csproj.CoreCompileInputs.cache
+F:\GitHub\AspNetAngular-Example\AspNetAngular\obj\Debug\netcoreapp2.1\AspNetAngular.RazorAssemblyInfo.cache
+F:\GitHub\AspNetAngular-Example\AspNetAngular\obj\Debug\netcoreapp2.1\AspNetAngular.RazorAssemblyInfo.cs
+F:\GitHub\AspNetAngular-Example\AspNetAngular\obj\Debug\netcoreapp2.1\AspNetAngular.AssemblyInfoInputs.cache
+F:\GitHub\AspNetAngular-Example\AspNetAngular\obj\Debug\netcoreapp2.1\AspNetAngular.AssemblyInfo.cs
+F:\GitHub\AspNetAngular-Example\AspNetAngular\obj\Debug\netcoreapp2.1\AspNetAngular.RazorTargetAssemblyInfo.cache
+F:\GitHub\AspNetAngular-Example\AspNetAngular\obj\Debug\netcoreapp2.1\AspNetAngular.dll
+F:\GitHub\AspNetAngular-Example\AspNetAngular\obj\Debug\netcoreapp2.1\AspNetAngular.pdb
